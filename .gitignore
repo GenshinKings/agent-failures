@@ -1,0 +1,9 @@
+﻿# 依赖/构建
+node_modules/
+*.exe
+__pycache__/
+
+# 敏感：绝不提交
+*.env
+*.log
+credentials*
